@@ -3,11 +3,11 @@ name: Build and Deploy Python Application
 on:
   push:
     branches:
-      - main   # Trigger on pushes to the main branch
+      - staging   
 
 jobs:
   build:
-    runs-on: ubuntu-latest   # Use the latest version of Ubuntu in GitHub Actions
+    runs-on: ubuntu-latest   
     
     steps:
       # Step 1: Checkout the code
