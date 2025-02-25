@@ -1,0 +1,5 @@
+# requirements.txt
+# If you have any dependencies, list them here
+# For example:
+# flask==2.0.1
+# requests==2.25.1
