@@ -3,12 +3,12 @@ name: Python Docker CI/CD Pipeline
 on:
   push:
     branches:
-      - master
       - staging
+      - master
   pull_request:
     branches:
-      - master
       - staging
+      - master
 
 jobs:
   build:
