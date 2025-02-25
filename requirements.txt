@@ -1,10 +1,4 @@
-# requirements.txt
-<<<<<<< HEAD
-# Add any Python dependencies here if required, e.g.:
-# Flask==2.1.0
-=======
-# If you have any dependencies, list them here
-# For example:
-# flask==2.0.1
-# requests==2.25.1
->>>>>>> master
+flask==2.0.0
+requests==2.26.0
+
+
